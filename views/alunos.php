@@ -1,4 +1,4 @@
-<a href="?pagina=inserir_aluno">Inserir novo Aluno</a>
+<a href="?pagina=inserir_aluno">Inserir novo aluno</a>
 
 <table style="border:1px solid #ccc; width: 100%">
 	<tr>
@@ -15,7 +15,7 @@
 		?>
 
 		<td><a href="?pagina=inserir_aluno&editar=<?php echo $linha['id_aluno']; ?>">Editar</a></td>
-		<td><a href="deleta_aluno.php?id_curso=<?php echo $linha['id_aluno']; ?>">Deletar</a></td></tr>
+		<td><a href="deleta_aluno.php?id_aluno=<?php echo $linha['id_aluno']; ?>">Deletar</a></td></tr>
 
 	<?php
 		}
