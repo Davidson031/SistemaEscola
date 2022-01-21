@@ -1,9 +1,10 @@
-<a href="?pagina=inserir_matricula">Inserir nova matricula</a>
+<a class="btn btn-success" href="?pagina=inserir_matricula">Inserir nova matricula</a><br><br>
 
-<table style="border:1px solid #ccc; width: 100%">
+<table class ="table">
 	<tr>
 		<th>Nome aluno</th>
 		<th>Nome curso</th>
+		<th>Ação</th>
 	</tr>
 
 	<?php 

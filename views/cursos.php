@@ -1,6 +1,6 @@
-<a href="?pagina=inserir_curso">Inserir novo Curso</a>
+<a class="btn btn-success" href="?pagina=inserir_curso">Inserir novo Curso</a><br><br>
 
-<table style="border:1px solid #ccc; width: 100%">
+<table class ="table">
 	<tr>
 		<th>Nome curso</th>
 		<th>Carga horária</th>

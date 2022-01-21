@@ -2,8 +2,9 @@
 <html>
     <head>
         <title>Cursos PHP + MYSQL</title>
-        <meta charset="UTF-8">
-        <link rel="stylesheet" href="css/estilo.css";
+        <meta charset="UTF-8">       
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/estilo.css">
     </head>
 
     <body>

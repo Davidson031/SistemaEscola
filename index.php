@@ -1,6 +1,6 @@
 <?php
 
-    echo 'THIS IS THE DAMN INDEX';
+
     include 'db.php';
 
     include 'header.php';
